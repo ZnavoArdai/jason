@@ -1,0 +1,44 @@
+{
+    "data":[
+        {
+            "firsName":"avi",
+            "lastName":"haim",
+            "age":25,
+            "city":"rishon",
+            "nighberhood":"olo 45",
+            "hobies":
+                {
+                    "honting":"dogs",
+                    "painting":"mountents"
+                }
+            
+        },
+        {
+            "firsName":"moti",
+            "lastName":"moti",
+            "age":25,
+            "city":"telaviv",
+            "nighberhood":"olo 45",
+            "hobies":
+                {
+                    "honting":"dogs",
+                    "painting":"mountents"
+                }
+            
+        },
+        {
+            "firsName":"natan",
+            "lastName":"natab",
+            "age":25,
+            "city":"askelon",
+            "nighberhood":"olo 45",
+            "hobies":
+                {
+                    "honting":"dogs",
+                    "painting":"mountents"
+                }
+            
+        }
+
+    ]
+}
